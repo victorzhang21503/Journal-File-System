@@ -1,0 +1,9 @@
+The phase2 only have one source file and one head file. So the compile is every simple.
+
+First: 
+gcc P2_JSM.c -lpthread -o P2_JSM
+
+
+Second: run the executable file:
+ ./P2_JSM
+ 
